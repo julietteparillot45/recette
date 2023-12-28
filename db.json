@@ -1,5 +1,5 @@
 {
-  "recettes": [
+  "recettes": 
     {
       "entree": {
         "type": ["vegan", "veggie"],
@@ -80,5 +80,4 @@
         ]
       }
     }
-  ]
 }
