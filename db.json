@@ -1,91 +1,93 @@
 {
-	"entree": {
-		"type": [
-			"vegan",
-			"veggie"
-		],
-		"nom": "Salade de quinoa aux légumes",
-		"ingredients": [
-			"1 tasse de quinoa",
-			"2 tasses d'eau",
-			"1 concombre, coupé en dés",
-			"1 poivron rouge, coupé en dés",
-			"1 oignon rouge, haché",
-			"1/4 tasse de persil frais, haché",
-			"3 cuillères à soupe d'huile d'olive",
-			"2 cuillères à soupe de vinaigre balsamique",
-			"Sel et poivre, au goût"
-		],
-		"instructions": [
-			"Cuire le quinoa selon les instructions sur l'emballage.",
-			"Dans un grand bol, mélanger le quinoa cuit, le concombre, le poivron rouge, l'oignon rouge et le persil.",
-			"Dans un petit bol, préparer la vinaigrette en mélangeant l'huile d'olive, le vinaigre balsamique, le sel et le poivre.",
-			"Verser la vinaigrette sur la salade de quinoa et mélanger délicatement.",
-			"Réfrigérer pendant au moins 30 minutes avant de servir."
-		]
-	},
-	"plat": {
-		"type": [
-			"veggie"
-		],
-		"nom": "Curry de lentilles",
-		"ingredients": [
-			"1 tasse de lentilles corail",
-			"1 oignon, haché",
-			"2 gousses d'ail, hachées",
-			"1 boîte de tomates concassées",
-			"1 boîte de lait de coco",
-			"2 cuillères à soupe de pâte de curry",
-			"1 cuillère à soupe d'huile végétalienne",
-			"Sel et poivre, au goût"
-		],
-		"instructions": [
-			"Dans une grande casserole, faire revenir l'oignon et l'ail dans l'huile végétalienne jusqu'à ce qu'ils soient dorés.",
-			"Ajouter les lentilles corail, les tomates concassées et le lait de coco. Porter à ébullition.",
-			"Réduire le feu, ajouter la pâte de curry, le sel et le poivre. Laisser mijoter jusqu'à ce que les lentilles soient tendres.",
-			"Servir le curry de lentilles avec du riz basmati."
-		]
-	},
-	"dessert": {
-		"type": [
-			"vegan",
-			"veggie"
-		],
-		"nom": "Tarte aux pommes vegan",
-		"ingredients": [
-			"1 pâte brisée végétalienne",
-			"4 pommes, pelées et tranchées",
-			"1/2 tasse de sucre",
-			"1 cuillère à soupe de farine",
-			"1 cuillère à café de cannelle",
-			"1/4 cuillère à café de noix de muscade",
-			"1 cuillère à soupe de jus de citron"
-		],
-		"instructions": [
-			"Préchauffer le four à 180°C.",
-			"Dans un grand bol, mélanger les tranches de pommes avec le sucre, la farine, la cannelle, la noix de muscade et le jus de citron.",
-			"Abaisser la pâte brisée dans un moule à tarte et y verser le mélange de pommes.",
-			"Cuire au four pendant 40-45 minutes, jusqu'à ce que la croûte soit dorée et les pommes soient tendres.",
-			"Laisser refroidir avant de servir."
-		]
-	},
-	"dessert": {
-		"type": [
-			"vegan",
-			"veggie"
-		],
-		"nom": "Pudding au chia à la noix de coco",
-		"ingredients": [
-			"1/4 tasse de graines de chia",
-			"1 tasse de lait de coco",
-			"2 cuillères à soupe de sirop d'érable",
-			"1/2 cuillère à café d'extrait de vanille",
-			"Fruits frais pour la garniture"
-		],
-		"instructions": [
-			"Dans un bol, mélanger les graines de chia, le lait de coco, le sirop d'érable et l'extrait de vanille. Bien mélanger.",
-			"Réfrigérer pendant au moins 2 heures, ou idéalement toute la nuit, en remuant de temps en temps.",
-			"Au moment de servir, garnir le pudding au chia avec des fruits frais de votre choix."
-		]
+	"recettes": {
+		"entree": {
+			"type": [
+				"vegan",
+				"veggie"
+			],
+			"nom": "Salade de quinoa aux légumes",
+			"ingredients": [
+				"1 tasse de quinoa",
+				"2 tasses d'eau",
+				"1 concombre, coupé en dés",
+				"1 poivron rouge, coupé en dés",
+				"1 oignon rouge, haché",
+				"1/4 tasse de persil frais, haché",
+				"3 cuillères à soupe d'huile d'olive",
+				"2 cuillères à soupe de vinaigre balsamique",
+				"Sel et poivre, au goût"
+			],
+			"instructions": [
+				"Cuire le quinoa selon les instructions sur l'emballage.",
+				"Dans un grand bol, mélanger le quinoa cuit, le concombre, le poivron rouge, l'oignon rouge et le persil.",
+				"Dans un petit bol, préparer la vinaigrette en mélangeant l'huile d'olive, le vinaigre balsamique, le sel et le poivre.",
+				"Verser la vinaigrette sur la salade de quinoa et mélanger délicatement.",
+				"Réfrigérer pendant au moins 30 minutes avant de servir."
+			]
+		},
+		"plat": {
+			"type": [
+				"veggie"
+			],
+			"nom": "Curry de lentilles",
+			"ingredients": [
+				"1 tasse de lentilles corail",
+				"1 oignon, haché",
+				"2 gousses d'ail, hachées",
+				"1 boîte de tomates concassées",
+				"1 boîte de lait de coco",
+				"2 cuillères à soupe de pâte de curry",
+				"1 cuillère à soupe d'huile végétalienne",
+				"Sel et poivre, au goût"
+			],
+			"instructions": [
+				"Dans une grande casserole, faire revenir l'oignon et l'ail dans l'huile végétalienne jusqu'à ce qu'ils soient dorés.",
+				"Ajouter les lentilles corail, les tomates concassées et le lait de coco. Porter à ébullition.",
+				"Réduire le feu, ajouter la pâte de curry, le sel et le poivre. Laisser mijoter jusqu'à ce que les lentilles soient tendres.",
+				"Servir le curry de lentilles avec du riz basmati."
+			]
+		},
+		"dessert": {
+			"type": [
+				"vegan",
+				"veggie"
+			],
+			"nom": "Tarte aux pommes vegan",
+			"ingredients": [
+				"1 pâte brisée végétalienne",
+				"4 pommes, pelées et tranchées",
+				"1/2 tasse de sucre",
+				"1 cuillère à soupe de farine",
+				"1 cuillère à café de cannelle",
+				"1/4 cuillère à café de noix de muscade",
+				"1 cuillère à soupe de jus de citron"
+			],
+			"instructions": [
+				"Préchauffer le four à 180°C.",
+				"Dans un grand bol, mélanger les tranches de pommes avec le sucre, la farine, la cannelle, la noix de muscade et le jus de citron.",
+				"Abaisser la pâte brisée dans un moule à tarte et y verser le mélange de pommes.",
+				"Cuire au four pendant 40-45 minutes, jusqu'à ce que la croûte soit dorée et les pommes soient tendres.",
+				"Laisser refroidir avant de servir."
+			]
+		},
+		"dessert": {
+			"type": [
+				"vegan",
+				"veggie"
+			],
+			"nom": "Pudding au chia à la noix de coco",
+			"ingredients": [
+				"1/4 tasse de graines de chia",
+				"1 tasse de lait de coco",
+				"2 cuillères à soupe de sirop d'érable",
+				"1/2 cuillère à café d'extrait de vanille",
+				"Fruits frais pour la garniture"
+			],
+			"instructions": [
+				"Dans un bol, mélanger les graines de chia, le lait de coco, le sirop d'érable et l'extrait de vanille. Bien mélanger.",
+				"Réfrigérer pendant au moins 2 heures, ou idéalement toute la nuit, en remuant de temps en temps.",
+				"Au moment de servir, garnir le pudding au chia avec des fruits frais de votre choix."
+			]
+		}
 	}
 }
