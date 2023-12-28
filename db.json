@@ -63,7 +63,7 @@
           "Laisser refroidir avant de servir."
         ]
       },
-      "dessert_vegan": {
+      "dessert": {
         "type": ["vegan", "veggie"],
         "nom": "Pudding au chia à la noix de coco",
         "ingredients": [
